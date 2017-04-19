@@ -9,9 +9,11 @@
 class InchesInMeters {
 	public static void main(String[] args) {
 		double meter;
-		int counter, inch, foot;
+		int counter;
+		int inch;
+		int foot;
 
-		counter = 0; //Счетчик который инициализируется нулевым значением
+		counter = 0;    //Счетчик который инициализируется нулевым значением
 		foot = 12 * 12; //Вычеляем скокльо дюймов в 12 футах
 
 		for (inch = 1; inch <= foot; inch++) {
@@ -21,9 +23,9 @@ class InchesInMeters {
 
 			counter++; //Увеличиваем счетчик строк на 1 на каждой итерации цикла
 
-			if (counter == 12) { //Если значение счетчика равно 10, вывести путую строку
+			if (counter == 12) {       //Если значение счетчика равно 10, вывести путую строку
 				System.out.println();
-				counter = 0; //Сбросить счетчик строк
+				counter = 0;           //Сбросить счетчик строк
 			}
 		}
 	}
