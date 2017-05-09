@@ -1,7 +1,7 @@
 /*
 	Упражнение 1.1
 	Программа перевода галлонов в литры.
-	Просвойте файлу с исходным кодом имя GalToLit.java
+	Присвойте файлу с исходным кодом имя GalToLit.java
  */
 class GalToLit {
 	public static void main(String[] args) {

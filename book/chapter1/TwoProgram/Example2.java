@@ -1,6 +1,6 @@
 /*
 	Демонстрация использования переменных.
-	Присвойте файлу с иходным кодом имя Example2.java
+	Присвойте файлу с исходным кодом имя Example2.java
  */
 class Example2 {
 	public static void main(String[] args) {

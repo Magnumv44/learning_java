@@ -9,12 +9,12 @@ class WeightOnTheMoon {
 		double my_weight = 82;      // Мой вес
 		double moon_gravity = 17;   // Сила притяжения на Луне
 		double earth_gravity = 100; // Сила притяжение на Земле
-		double moon_weight;         // Переменная которая будет хврнить в себе вес на Луне
+		double moon_weight;         // Переменная которая будет хранить в себе вес на Луне
 
 		/* Производим расчет веса на Луне */
 		moon_weight = (moon_gravity / earth_gravity) * my_weight;
 
-		/* Выводим на эекран результат */
+		/* Выводим на экран результат */
 		System.out.print("Мой вес на Луне равен: " + moon_weight + " кг.");
 	}
 }
