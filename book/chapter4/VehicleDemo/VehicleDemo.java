@@ -3,6 +3,10 @@
 
  * @author Vitaliy Magnum
  */
+
+/**
+ * Класс описывающий объект Vehicle.
+ */
 class Vehicle {
     int passengers; // Количество пассажиров
     int fuelcap;    // Емкость топливного бака
