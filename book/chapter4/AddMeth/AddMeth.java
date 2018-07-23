@@ -27,8 +27,6 @@ class AddMeth {
 		Vehicle minivan = new Vehicle();
 		Vehicle sportcar = new Vehicle();
 
-		int range1, range2;
-
 		// Присваиваем значения полям в объекте minivan
 		minivan.passengers = 7;
 		minivan.fuelcap = 16;
@@ -44,7 +42,7 @@ class AddMeth {
 
 		minivan.range(); // Отображаем на экран дальносить поездки мини-фургона используя метод класса Vehicle
 
-		System.out.print("Мини-фургон может перевезти " +
+		System.out.print("Спортивный автомобиль может перевезти " +
 			sportcar.passengers + " пассажиров. ");
 
 		sportcar.range(); // Отображаем на экран дальносить поездки спортивного автомобиля используя метод класса Vehicle
