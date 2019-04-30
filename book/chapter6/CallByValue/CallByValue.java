@@ -10,12 +10,15 @@ class CallByValue {
         Test test = new Test();
         int a = 15, b = 20;
 
-        System.out.println("Значение переменных a и b до вызова метода noChange у объекта ob класса Test: "
+        System.out.println("Значение переменных a и b до вызова метода noChange у объекта test класса Test: "
                            + a + " " + b);
-
+        /*
+         Переменные a и b, не принадлежат объекту test класса Test
+         их значение останется неизменными
+         */
         test.noChange(a, b);
 
-        System.out.println("Значение переменных a и b после вызова метода noChange у объекта ob класса Test: "
+        System.out.println("Значение переменных a и b после вызова метода noChange у объекта test класса Test: "
                 + a + " " + b);
     }
 }
