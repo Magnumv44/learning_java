@@ -10,7 +10,7 @@ class SumDemo {
     public static void main(String args[]) {
         // Создаем первый объект
         Summation s1 = new Summation(5);
-        
+
         // Создаем второй объект и а качестве аргуемента для конструктора передаем ему первый
         Summation s2 = new Summation(s1);
 
