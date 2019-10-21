@@ -1,6 +1,6 @@
 /*
  * Упражнение 6.1.
- * Демонстрирующий работу нециклического заполнения
+ * Демонстрирующие работу нециклического заполнения
  * массива на примере очереди с применением модификаторов доступа.
  *
  * @author Magnum
@@ -13,13 +13,13 @@ class Queue {
     private char q[];            // массив для хранения элементов
     private int putloc, getloc;  // индейсы для вставки и извлечения дпнных массива
 
-    Queue(int size) {
-        q = new char[size + 1];
-        putloc = getloc = 0;
+    public Queue(int size) {
+        this.q = new char[size + 1];
+        this.putloc = this.getloc = 0;
     }
 
     // Метод помещаюй символ в очередь
-    void put(char ch) {
+    public void put(char ch) {
         if (putloc == q.length-1) {
             System.out.println(" - Очередь заполнена.");
             return;
@@ -30,7 +30,7 @@ class Queue {
     }
 
     // Метод извлекающий символ из очереди
-    char get() {
+    public char get() {
         if (getloc == putloc) {
             System.out.println(" - Очередь пуста.");
             return (char) 0;
