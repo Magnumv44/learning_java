@@ -12,8 +12,13 @@ package bookpack2.bookpackext;
 
 class UseBook {
     public static void main(String[] args) {
+
+        /* при создании объекта нужно указывать не только имя класса,
+           а и полный пусть к пакету с классом перед названием классом
+         */
         bookpack2.bookpack.Book books[] = new bookpack2.bookpack.Book[5];
 
+        // обращаясь к конструктору класса Book, обязательно перед ним указывать путь к пакету содержащему его
         books[0] = new bookpack2.bookpack.Book("Java: Руководство для начинающих", "Schildt", 2011);
         books[1] = new bookpack2.bookpack.Book("Java: Полное руководство", "Шилдт", 2011);
         books[2] = new bookpack2.bookpack.Book("искусство программирования на Java", "Шилдт и Хоумс", 2003);

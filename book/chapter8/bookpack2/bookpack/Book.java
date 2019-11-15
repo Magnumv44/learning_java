@@ -8,7 +8,7 @@
 
 package bookpack2.bookpack;
 
-public class Book {
+public class Book { // модификатор доступа public указан для работы второго примера из гравы 8
     private String title;
     private String author;
     private int pubDate;
