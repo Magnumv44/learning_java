@@ -22,7 +22,7 @@
 2. [HTML версия](https://github.com/Magnumv44/learning_java/blob/master/java_code_conventions.html "Нажмите что-бы открыть")
    (_содержит навигацию по разделам, можно использовать в offline режиме на ПК или устройствах с экраном 10+ дюймов_)
 
-HTML версия так же доступна online в блоге "[Magnum news](https://www.magnumblog.space/java/131-translating-java-code-conventions
+HTML версия так же доступна online в блоге "[Magnum news](https://www.magnumblog.space/java/translating-java-code-conventions
                                                           "Соглашения по оформлению кода Java в блоге Magnum news")"
 
 ## Глава №1
