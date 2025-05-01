@@ -25,7 +25,7 @@ HTML версия так же доступна online в блоге "[Magnum new
 
 ## Глава №1
 Описание истории языка Java, его синтаксиса и принципов его работы.
-Более детальное описание главы [здесь](https://www.magnumblog.space/java/132-chapter-number-1-java-basics
+Более детальное описание главы [здесь](https://www.magnumblog.space/java/chapter-number-1-java-basics
                                        "Основы Языка Java - нажмите что-бы перейти к чтению.")
 
 ### Примеры кода
