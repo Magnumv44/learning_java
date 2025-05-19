@@ -1,8 +1,8 @@
 # Мої дослідження в освоєнні Java
-За допомогою книги "[**Java: Посібник для початківців**](https://diamail.com.ua/book/10086.html
+За допомогою книги "[**Java: Посібник для початківців**](https://balka-book.com/ua/java-57/java-rukovodstvo-dlya-nachinayuschih-9e-izdanie-241444
                                                             "Натисніть щоб відкрити")"
 <p align="center">
-<img src="https://diamail.com.ua/bimages/big/978-5-907515-36-9.jpg" title="Java: Посібник для початківців" alt="Java: Посібник для початківців" width="300" height="400" />
+<img src="https://balka-book.com/files/2023/04_26/21_23/u_files_store_18_56.jpg" title="Java: Посібник для початківців" alt="Java: Посібник для початківців" width="300" height="400" />
 </p>
 
 У даному репозиторії містяться:
