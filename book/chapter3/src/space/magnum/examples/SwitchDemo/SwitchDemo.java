@@ -3,6 +3,10 @@ package space.magnum.examples.SwitchDemo;
 /**
  * Програма SwitchDemo.
  * Демонстрація роботи керуючого оператора switch.
+ *
+ * Зверніть увагу, що в preview версії Java 12, а остаточно
+ * починаючи з Java 14, оператор switch зазнав синтаксичних змін,
+ * але поточний його вигляд як в даному прикладі, все буде працювати.
  */
 public class SwitchDemo {
     public static void main(String[] args) {
