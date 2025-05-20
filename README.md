@@ -124,6 +124,8 @@ HTML версія також розміщена в блозі "[Magnum news](htt
 4. [Демонстрація роботи вкладених операторів if та if-else в інші блоки коду на приклда гри "Вгадай літеру" версія 3](/book/chapter3/src/space/magnum/examples/Guess3/Guess3.java "Натисніть щоб відкрити")
 5. [Демонстрація роботи багатоступінчатої конуструкції if-else-if](/book/chapter3/src/space/magnum/examples/Ladder/Ladder.java "Натисніть щоб відкрити")
 6. [Демонстрація роботи оператора switch](/book/chapter3/src/space/magnum/examples/SwitchDemo/SwitchDemo.java "Натисніть щоб відкрити")
+> Зверніть увагу, що в preview версії Java 12, а остаточно починаючи з Java 14, оператор switch зазнав синтаксичних змін, але поточний його вигляд як в даному прикладі, все буде працювати.
+7.
 
 ### Питання з відповідями для самоперевірки
 [Перейти до питань та відповідей](/book/chapter3/answers_on_questions.md "Натисніть, щоб відкрити")
