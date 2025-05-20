@@ -118,6 +118,12 @@ HTML версія також розміщена в блозі "[Magnum news](htt
 ## Глава №3
 
 ### Приклади коду
+1. [Демонстрація отримання символів з клавіатури та їх вивід на екран](/book/chapter3/src/space/magnum/examples/KbIn/KbIn.java "Натисніть щоб відкрити")
+2. [Демонстрація роботи оператора if на прикладі гри "Вгадай літеру"](/book/chapter3/src/space/magnum/examples/Guess/Guess.java "Натисніть щоб відкрити")
+3. [Демонстрація роботи оператора if-else на прикладі гри "Вгадай літеру" версія 2](/book/chapter3/src/space/magnum/examples/Guess2/Guess2.java "Натисніть щоб відкрити")
+4. [Демонстрація роботи вкладених операторів if та if-else в інші блоки коду на приклда гри "Вгадай літеру" версія 3](/book/chapter3/src/space/magnum/examples/Guess3/Guess3.java "Натисніть щоб відкрити")
+5. [Демонстрація роботи багатоступінчатої конуструкції if-else-if](/book/chapter3/src/space/magnum/examples/Ladder/Ladder.java "Натисніть щоб відкрити")
+6. [Демонстрація роботи оператора switch](/book/chapter3/src/space/magnum/examples/Switch/Switch.java "Натисніть щоб відкрити")
 
 ### Питання з відповідями для самоперевірки
 [Перейти до питань та відповідей](/book/chapter3/answers_on_questions.md "Натисніть, щоб відкрити")
