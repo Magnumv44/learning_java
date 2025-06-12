@@ -127,6 +127,9 @@ HTML версія також розміщена в блозі "[Magnum news](htt
 > Зверніть увагу, що в preview версії Java 12, а остаточно починаючи з Java 14, оператор switch зазнав синтаксичних змін, але поточний його вигляд як в даному прикладі, все буде працювати.
 7. [Демонстрація роботи оновленого оператора switch починаючи з Java 14](/book/chapter3/src/space/magnum/examples/SwitchDemo2/SwitchDemo2.java "Натисніть щоб відкрити")
 8. [Демонстрація роботи оператора switch без використання оператора break](/book/chapter3/src/space/magnum/examples/NoBreakSwitch/NoBreakSwitch.java "Натисніть щоб відкрити")
+9. [Демонстрація роботи оператора switch вкладеного в інший керуючий оператор](/book/chapter3/src/space/magnum/examples/NestedSwitchStatemen/NestedSwitchStatemen.java "Натисніть щоб відкрити")
+10. [Вправа 3.1 - Програма довідника з синтаксису керуючих операторів if та switch](/book/chapter3/src/space/magnum/exercises/exercises3_1/Help/Help.java "Натисніть щоб відкрити")
+11. [Демонстрація роботи циклу for](/book/chapter3/src/space/magnum/examples/SqrtRoot/SqrtRoot.java "Натисніть щоб відкрити")
 
 ### Питання з відповідями для самоперевірки
 [Перейти до питань та відповідей](/book/chapter3/answers_on_questions.md "Натисніть, щоб відкрити")
