@@ -130,6 +130,7 @@ HTML версія також розміщена в блозі "[Magnum news](htt
 9. [Демонстрація роботи оператора switch вкладеного в інший керуючий оператор](/book/chapter3/src/space/magnum/examples/NestedSwitchStatemen/NestedSwitchStatemen.java "Натисніть щоб відкрити")
 10. [Вправа 3.1 - Програма довідника з синтаксису керуючих операторів if та switch](/book/chapter3/src/space/magnum/exercises/exercises3_1/Help/Help.java "Натисніть щоб відкрити")
 11. [Демонстрація роботи циклу for](/book/chapter3/src/space/magnum/examples/SqrtRoot/SqrtRoot.java "Натисніть щоб відкрити")
+12. [Демонстрація роботи циклу for з використання від'ємних значень в якості умови та рух на зменшення](/book/chapter3/src/space/magnum/examples/DecrFor/DecrFor.java "Натисніть щоб відкрити")
 
 ### Питання з відповідями для самоперевірки
 [Перейти до питань та відповідей](/book/chapter3/answers_on_questions.md "Натисніть, щоб відкрити")
