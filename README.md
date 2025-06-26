@@ -133,6 +133,7 @@ HTML версія також розміщена в блозі "[Magnum news](htt
 12. [Демонстрація роботи циклу for з використання від'ємних значень в якості умови та рух на зменшення](/book/chapter3/src/space/magnum/examples/DecrFor/DecrFor.java "Натисніть щоб відкрити")
 13. [Демонстрація роботи циклу for з використання з викростанням двох змінних в умові циклу](/book/chapter3/src/space/magnum/examples/Comma/Comma.java "Натисніть щоб відкрити")
 14. [Демонстрація роботи циклу for з використання в якості умови виходу з циклу введення певного символу з клавіатери](/book/chapter3/src/space/magnum/examples/ForTest/ForTest.java "Натисніть щоб відкрити")
+15. [Демонстрація роботи циклу for з відсутньою 3-ю частиною умови циклу (інкремент/декремент)](/book/chapter3/src/space/magnum/examples/EmptyPartLoopCondition/EmptyPartLoopCondition.java "Натисніть щоб відкрити")
 
 ### Питання з відповідями для самоперевірки
 [Перейти до питань та відповідей](/book/chapter3/answers_on_questions.md "Натисніть, щоб відкрити")
