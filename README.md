@@ -133,7 +133,8 @@ HTML версія також розміщена в блозі "[Magnum news](htt
 13. [Демонстрація роботи циклу for з використання з викростанням двох змінних в умові циклу](/book/chapter3/src/space/magnum/examples/Comma/Comma.java "Натисніть щоб відкрити")
 14. [Демонстрація роботи циклу for з використання в якості умови виходу з циклу введення певного символу з клавіатери](/book/chapter3/src/space/magnum/examples/ForTest/ForTest.java "Натисніть щоб відкрити")
 15. [Демонстрація роботи циклу for з відсутньою 3-ю частиною умови циклу (інкремент/декремент)](/book/chapter3/src/space/magnum/examples/EmptyPartLoopCondition/EmptyPartLoopCondition.java "Натисніть щоб відкрити")
-16. [Демонстрація роботи циклу for з винесеною за межі циклу 1-ю частиною та відсутньою 3-ю частинами умови циклу (ініціалізація таінкремент/декремент)](/book/chapter3/src/space/magnum/examples/EmptyPartLoopCondition/EmptyPartLoopCondition.java "Натисніть щоб відкрити")
+16. [Демонстрація роботи циклу for з винесеною за межі циклу 1-ю частиною та відсутньою 3-ю частинами умови циклу (ініціалізація таінкремент/декремент)](/book/chapter3/src/space/magnum/examples/EmptyPartLoopCondition/EmptyPartLoopCondition2.java "Натисніть щоб відкрити")
+17. [Демонстрація роботи циклу for з оголошенням ініціалізуючої змінної до початку циклу та без тіла циклу](/book/chapter3/src/space/magnum/examples/EmptyPartLoopCondition/EmptyPartLoopCondition3.java "Натисніть щоб відкрити")
 
 ### Питання з відповідями для самоперевірки
 [Перейти до питань та відповідей](/book/chapter3/answers_on_questions.md "Натисніть, щоб відкрити")
