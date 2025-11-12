@@ -10,9 +10,9 @@ public class Ladder {
 
         for (x = 0; x < 6; x++) {
             if (x == 1) {
-                System.out.println("x дорівнює одиниці");
+                System.out.println("x дорівнює один");
             } else if (x == 2) {
-                System.out.println("x дорівнює двум");
+                System.out.println("x дорівнює два");
             } else if (x == 3) {
                 System.out.println("x дорівнює три");
             } else if (x == 4) {

@@ -30,7 +30,7 @@ public class SwitchDemo2 {
             case WED -> "Wednesday"; // Усі значення 'enum' охоплено
             /*
                 Не є обов'язковим якщо охоплені всі три значення з перерахунку 'enum'
-                якщо ж закоментувати наприклад 'case WED -> "Wednesday";'
+                якщо ж закоментувати, наприклад 'case WED -> "Wednesday";'
                 то буде помилка 'java: the switch expression does not cover all possible input values'
                 і в такому випадку default є обов'язковим і повинен бути розкоментований!
              */
